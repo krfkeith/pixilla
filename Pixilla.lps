@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="12">
+      <Unit0>
+        <Filename Value="Pixilla.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Pixilla"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="39" Y="14"/>
+        <UsageCount Value="21"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="CanvasForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainForm"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="36" Y="9"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="pixillacanvas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="pixillacanvas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="92"/>
+        <CursorPos X="12" Y="33"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="Pixila.lpr"/>
+        <UnitName Value="Pixila"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="14" Y="1"/>
+        <UsageCount Value="20"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="pixilacanvas.pas"/>
+        <UnitName Value="pixillacanvas"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="19" Y="1"/>
+        <UsageCount Value="20"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1168"/>
+        <CursorPos X="14" Y="1178"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\lcl\lcltype.pp"/>
+        <UnitName Value="LCLType"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="56"/>
+        <CursorPos X="16" Y="130"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1690"/>
+        <CursorPos X="3" Y="1707"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="third-party\zengl\zgl_main.pas"/>
+        <UnitName Value="zgl_main"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="94"/>
+        <CursorPos X="16" Y="100"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="third-party\zengl\zgl_types.pas"/>
+        <UnitName Value="zgl_types"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="34"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="third-party\zengl\zgl_application.pas"/>
+        <UnitName Value="zgl_application"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="442"/>
+        <CursorPos X="3" Y="140"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="third-party\zengl\zgl_primitives_2d.pas"/>
+        <UnitName Value="zgl_primitives_2d"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="163"/>
+        <CursorPos X="87" Y="250"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="23" Column="38" TopLine="19"/>
+      </Position1>
+      <Position2>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="55" Column="19" TopLine="44"/>
+      </Position2>
+      <Position3>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="49" Column="36" TopLine="43"/>
+      </Position3>
+      <Position4>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="41" Column="14" TopLine="29"/>
+      </Position4>
+      <Position5>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="61" Column="3" TopLine="50"/>
+      </Position5>
+      <Position6>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="52" Column="19" TopLine="40"/>
+      </Position6>
+      <Position7>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="41" Column="5" TopLine="27"/>
+      </Position7>
+      <Position8>
+        <Filename Value="pixillacanvas.pas"/>
+        <Caret Line="71" Column="37" TopLine="70"/>
+      </Position8>
+      <Position9>
+        <Filename Value="pixillacanvas.pas"/>
+        <Caret Line="83" Column="10" TopLine="74"/>
+      </Position9>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
