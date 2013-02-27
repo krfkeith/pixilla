@@ -1,0 +1,64 @@
+object CanvasForm: TCanvasForm
+  Left = 165
+  Height = 484
+  Top = 106
+  Width = 829
+  Caption = 'Pixilla'
+  ClientHeight = 484
+  ClientWidth = 829
+  OnActivate = FormActivate
+  OnClose = FormClose
+  OnCreate = FormCreate
+  LCLVersion = '1.1'
+  object sBar: TStatusBar
+    Left = 0
+    Height = 23
+    Top = 461
+    Width = 829
+    Panels = <    
+      item
+        Bevel = pbRaised
+        Text = 'Size'
+        Width = 150
+      end    
+      item
+        Text = 'FPS: 50'
+        Width = 50
+      end>
+    SimplePanel = False
+  end
+  object cmbScale: TComboBox
+    Left = 48
+    Height = 23
+    Top = 461
+    Width = 56
+    Anchors = [akLeft, akBottom]
+    CharCase = ecLowerCase
+    ItemHeight = 15
+    ItemIndex = 1
+    Items.Strings = (
+      '0.5X'
+      '1X'
+      '2X'
+      '4X'
+      '8X'
+      '16X'
+      '32X'
+    )
+    Style = csDropDownList
+    TabOrder = 1
+    Text = '1X'
+  end
+  object pnlCanvas: TPanel
+    Left = 0
+    Height = 461
+    Top = 0
+    Width = 829
+    Align = alClient
+    BevelOuter = bvNone
+    Color = clBlack
+    ParentColor = False
+    TabOrder = 2
+    OnResize = pnlCanvasResize
+  end
+end
